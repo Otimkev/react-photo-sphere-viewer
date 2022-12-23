@@ -17,6 +17,7 @@
     ],
     "repository": "elius94/react-photo-sphere-viewer",
     "main": "dist/index.js",
+    "type": "module",
     "module": "dist/index.js",
     "jsnext:main": "dist/index.js",
     "types": "dist/index.d.ts",
